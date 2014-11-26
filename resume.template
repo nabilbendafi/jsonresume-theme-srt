@@ -99,15 +99,6 @@
 							        {{/each}}</p>
 							</div>
 							{{/each}}
-
-<!--							{{#each work}}
-							<div class="job last">
-								<h2>{{company}}</h2>
-								<h3>{{position}}</h3>
-								<h4>{{startDate}}-{{endDate}}</h4>
-								<p>{{summary}}</p>
-							</div>
-							{{/each}} -->
 						</div><!--// .yui-u -->
 					</div><!--// .yui-gf -->
 					{{/if}}
@@ -145,7 +136,7 @@
                                                         {{/if}}
                                                         </h3>
 							{{#each courses}}
-							<h4>&bull; {courses}}</h4>
+							<h4>&bull; {{.}}</h4>
 							{{/each}}
 							<br>
 						</div>
