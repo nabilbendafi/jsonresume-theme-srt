@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-boilerplate",
+  "name": "jsonresume-theme-srt",
   "version": "0.1.1",
-  "description": "Boilerplate theme for JSON Resume",
-  "author": "Mattias Erming",
+  "description": "SRT theme for JSON Resume",
+  "author": "Nabil Bendafi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+    "url": "https://github.com/nabilbendafi/jsonresume-theme-srt"
   },
   "license": "MIT",
   "dependencies": {
